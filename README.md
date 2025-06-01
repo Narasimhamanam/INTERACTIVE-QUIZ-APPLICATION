@@ -48,4 +48,4 @@ cd js-quiz-portal
 
 ---
 
-Would you like me to also prepare a ready-to-us
+
