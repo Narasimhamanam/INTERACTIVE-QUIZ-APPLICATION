@@ -38,6 +38,10 @@ This project features user login with OTP verification (mocked), a timed quiz, a
 - A modern web browser (Chrome, Firefox, Edge, Safari).
 - (Optional) A local server environment for better file handling (e.g., VSCode Live Server).
 
+  ##OUTPUT
+
+  ![Image](https://github.com/user-attachments/assets/9f64ec1b-f718-471c-88f9-e65b2e70f148)
+
 ### Installation
 
 1. Clone or download the repository:
@@ -47,5 +51,6 @@ git clone https://github.com/Narasimhamanam/CodTechTask1.git
 cd js-quiz-portal
 
 ---
+
 
 
