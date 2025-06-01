@@ -22,7 +22,7 @@ This project features user login with OTP verification (mocked), a timed quiz, a
 - User login with name and 10-digit mobile number.
 - OTP generation and verification (mocked in frontend with alerts).
 - 12-minute countdown timer for the quiz.
-- 10 multiple-choice JavaScript questions.
+- 10 multiple-choice of any language( just for demo iam using JavaScript questions).
 - Navigation between questions (Previous / Next).
 - Submit quiz to see the score.
 - Prevent users from retaking the quiz in the same browser session.
