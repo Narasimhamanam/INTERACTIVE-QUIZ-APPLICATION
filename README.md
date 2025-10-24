@@ -1,15 +1,5 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: NARASIMHA MANAM
-
-*INTERN ID*: CT04DF662
-
-*DOMAIN*: FRONT END DEVELOPMENT
-
-*MENTOR*: NEELA SANTOSH
-
 #Interactive Quiz ( dynamically changable subject feature )
 
 A simple and elegant web-based quiz portal built with pure HTML, CSS, and JavaScript.  
