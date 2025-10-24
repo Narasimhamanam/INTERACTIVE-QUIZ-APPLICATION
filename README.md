@@ -1,7 +1,5 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-#Interactive Quiz ( dynamically changable subject feature )
-
 A simple and elegant web-based quiz portal built with pure HTML, CSS, and JavaScript.  
 This project features user login with OTP verification (mocked), a timed quiz, answer selection, score calculation, answer review, and the ability to send the score as a PDF to WhatsApp (to be integrated).
 
